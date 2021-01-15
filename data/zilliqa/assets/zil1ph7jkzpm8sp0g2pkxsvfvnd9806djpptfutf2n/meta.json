@@ -5,12 +5,13 @@
   "supply": "10000000",
   "email": "zilliqafred@gmail.com",
   "links": {
+    "discord": https://discord.gg/vVyV6pc9PH",
     "telegram": "https://t.me/zilFred",
     "linkedin": "https://www.linkedin.com/groups/9018181/",
     "twitter": "https://twitter.com/zil_fred"
   },
   "gen": {
-    "logo": "logo.svg",
+    "logo": "logo.png",
     "hasDark": false
   }
 }
